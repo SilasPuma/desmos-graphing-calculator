@@ -1,4 +1,4 @@
-# Guide: Playstore Hack on the 4 Pro  
+# Gabb Phone 4 Pro Hack  
 
 Follow the steps below to get Google Play Store and other apps working on the Gabb Phone 4 Pro.  
 
