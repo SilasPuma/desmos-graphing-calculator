@@ -30,10 +30,10 @@ Follow the steps below to get Google Play Store and other apps working on the Ga
 
 5. **Wait for the Update Screen**:  
    - After connecting to Wi-Fi, the phone will attempt to check for updates.  
-   - Wait until the "Updating Knox" screen (or a similar update screen) appears. This is typically the second screen after the Wi-Fi page.  
+   - Wait until the "Getting enrollment details" screen appears. This is typically the second screen after the Wi-Fi page.  
 
 6. **Disconnect Wi-Fi**:  
-   - Wait for 2–5 seconds after the "Updating Knox" screen appears.  
+   - Wait for 6-8 seconds after the "Getting Enrollment Details" screen appears.  
    - Disconnect your router or turn off the Wi-Fi connection.  
    - *Tip*: Timing is critical. Disconnecting too early or too late may require restarting the process.  
 
@@ -43,7 +43,7 @@ Follow the steps below to get Google Play Store and other apps working on the Ga
 7. **Select Wi-Fi Settings**:  
    - A pop-up with three options should appear on the screen.  
    - Select the middle option that mentions "Wi-Fi settings."  
-   - *Note*: If no pop-up appears, it means you disconnected the Wi-Fi too soon. Restart the process from Step 3.  
+   - *Note*: If no pop-up appears, it means you disconnected the Wi-Fi too soon. Restart the device and try again.  
 
 ---
 
@@ -58,7 +58,7 @@ Follow the steps below to get Google Play Store and other apps working on the Ga
    - Select "Advanced Settings" from the dropdown menu.  
 
 10. **Samsung Account Setup**:  
-   - In the Advanced Settings menu, select the top option related to the Samsung account.  
+   - In the Advanced Settings menu, select "Sync with Samsung Cloud".  
    - This will redirect you to the Samsung account setup page.  
 
 ---
