@@ -96,7 +96,7 @@ Follow the steps below to get Google Play Store and other apps working on the Ga
 
 17. **Success**:  
    - You have successfully completed the Playstore hack on the 4 Pro!  
-   - The Playstore should now be accessible on your device.  
+   - The Google Play Store should now be accessible on your device.  
 
 ---
 
