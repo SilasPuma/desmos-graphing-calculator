@@ -4,7 +4,7 @@ Follow the steps below to get Google Play Store and other apps working on the Ga
 
 ---
 
-## Steps  
+## Steps (DEVICE MUST BE FACTORY RESETTED BY GABB SUPPORT BEFORE BEGINNING) 
 
 ### 1. Initial Setup  
 1. **Remove the SIM Card**:  
